@@ -1,4 +1,4 @@
-describe('login', () => {
+describe('Test task for Global Team', () => {
   const userEmail = 'qatest.hotel@gmail.com'
   const userPassword = 'Pa$$word123'
 
