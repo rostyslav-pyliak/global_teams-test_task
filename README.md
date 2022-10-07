@@ -1,1 +1,1 @@
-# global_teams-test_task
+Completed test task for position Junior QA Automation specialist for Global Teams.
